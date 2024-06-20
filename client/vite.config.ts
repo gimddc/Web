@@ -21,7 +21,7 @@ export default defineConfig({
     open: true, // 设置服务启动时是否自动打开浏览器
     cors: true, // 允许跨域
 
-    // 设置代理，根据我们项目实际情况配置
+    // 设置代理
     proxy: {
       "/api": {
         target: "http://localhost:3001",
