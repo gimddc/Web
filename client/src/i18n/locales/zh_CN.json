@@ -1,0 +1,59 @@
+{
+    "Title": {
+      "System": "内容管理系统"
+    },
+    "Language": {
+      "Chinese": "中文",
+      "English": "英文"
+    },
+    "Header": { "Setting": "设置" },
+    "Side": {
+      "StudyNote": "学习心得",
+      "DataManage": "数据管理",
+      "TagManage": "标签管理"
+    },
+    "TagManage": {
+      "AddTag": "添加标签",
+      "DelTag": "确定删除"
+    },
+    "Form": {
+      "Name": "名称",
+      "Tags": "标签",
+      "Time": "时间",
+      "Reset": "重置",
+      "Description": "描述",
+      "AddDataRecord": "添加记录",
+      "AddTagRecord": "添加记录",
+      "Color": "颜色",
+      "Rule": {
+        "Name": "名称不能为空",
+        "Description": "描述不能为空",
+        "Tags": "标签名称不能为空"
+      }
+    },
+    "Table": {
+      "No": "编号",
+      "Action": "动作",
+      "Edit": "编辑",
+      "Delete": "删除",
+      "AddData": "添加数据",
+      "Page": "页",
+      "Jump": "跳至",
+      "Items": "条",
+      "Total": "总共",
+      "DeleteConfirm": "确定删除?"
+    },
+    "Placehold": {
+      "Search": "请输入搜索名称",
+      "Name": "请输入名称",
+      "Tags": "请输入标签",
+      "Description": "请输入描述"
+    },
+    "Search": "搜索",
+    "Color": {
+      "Blue": "蓝色",
+      "Green": "绿色",
+      "Red": "红色"
+    }
+  }
+  

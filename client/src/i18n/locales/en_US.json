@@ -1,0 +1,59 @@
+{
+    "Title": {
+      "System": "Manage System"
+    },
+    "Language": {
+      "Chinese": "Chinese",
+      "English": "English"
+    },
+    "Header": { "Setting": "Setting" },
+    "Side": {
+      "StudyNote": "StudyNote",
+      "DataManage": "Data",
+      "TagManage": "Tags"
+    },
+    "TagManage": {
+      "AddTag": "Add A Tag",
+      "DelTag": "Delete Tags"
+    },
+    "Form": {
+      "Name": "Name",
+      "Tags": "Tags",
+      "Time": "Time",
+      "Reset": "Reset",
+      "AddDataRecord": "Add Data Record",
+      "AddTagRecord": "Add Tag Record",
+      "Description": "Description",
+      "Color": "Color",
+      "Rule": {
+        "Name": "Name cannot be empty",
+        "Description": "Decription cannot be empty",
+        "Tags": "Tags cannot be empty"
+      }
+    },
+    "Table": {
+      "No": "No",
+      "Action": "Action",
+      "Edit": "Edit",
+      "Delete": "Delete",
+      "AddData": "Add A Data",
+      "Page": "Page",
+      "Jump": "Jump to",
+      "Items": "Item",
+      "Total": "Total",
+      "DeleteConfirm": "Sure to Delete?"
+    },
+    "Placehold": {
+      "Search": "Please Input Search Name",
+      "Name": "Please Input Name",
+      "Tags": "Please Input Tags",
+      "Description": "Please Input Description"
+    },
+    "Search": "Search",
+    "Color": {
+      "Blue": "Blue",
+      "Green": "Green",
+      "Red": "Red"
+    }
+  }
+  
