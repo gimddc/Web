@@ -1,9 +1,12 @@
+import DataTable from "@/components/DataTable";
+import SearchForm from "@/components/SearchForm";
+
 const DataManage = () => {
   return (
-    <div>
-      <h1>Data Manage</h1>
-    </div>
+    <>
+      <SearchForm></SearchForm>
+      <DataTable></DataTable>
+    </>
   );
 };
-
 export default DataManage;
