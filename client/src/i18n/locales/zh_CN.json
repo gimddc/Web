@@ -12,6 +12,10 @@
       "DataManage": "数据管理",
       "TagManage": "标签管理"
     },
+    "Home": {
+      "Course": "软件系统设计与开发实践",
+      "Name": "软件zy2102 周栩迪"
+    },
     "TagManage": {
       "AddTag": "添加标签",
       "DelTag": "确定删除"

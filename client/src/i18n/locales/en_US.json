@@ -9,8 +9,12 @@
     "Header": { "Setting": "Setting" },
     "Side": {
       "Home": "HomePage",
-      "DataManage": "Data",
-      "TagManage": "Tags"
+      "DataManage": "DataManage",
+      "TagManage": "TagsManage"
+    },
+    "Home": {
+      "Course": "Software System Design and Development Practice",
+      "Name": "Software zy2102 Hoyd Chow"
     },
     "TagManage": {
       "AddTag": "Add A Tag",

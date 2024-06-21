@@ -1,0 +1,105 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  html,
+  body {
+    display: block;
+    height: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  #root {
+    height: 100%;
+  }
+  .topMenu {
+    height: 80px;
+    line-height: 80px;
+    background-color: black;
+  }
+  .topMenu span {
+    font-size: 24px;
+    color: white;
+    vertical-align: middle;
+  }
+  
+  .settingBox {
+    width: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    height: 80px;
+    line-height: 80px;
+    position: relative;
+  }
+  .switchBox {
+    position: absolute;
+    top: 58px;
+  
+    background-color: white;
+    border-radius: 6px;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    border: 1px solid black;
+    text-align: center;
+  }
+  .hide {
+    display: none;
+  }
+  .main {
+    display: flex;
+    width: auto;
+    height: 100%;
+  }
+  
+  .searchForm {
+    background-color: white;
+    margin: 10px 20px;
+  }
+  
+  .dataTable {
+    background-color: white;
+    text-align: right;
+    margin: 10px 20px;
+    height: calc(82%);
+    overflow-y: auto;
+  }
+  
+  .addDataBtn {
+    line-height: 60px;
+  }
+  
+  .tagManage {
+    background-color: white;
+    text-align: right;
+    margin: 10px 20px;
+    height: 95%;
+  }
+  .tagBtnBox {
+    margin: 0px 10px;
+    line-height: 80px;
+  }
+  
+  .colorSelect {
+    color: white;
+  }
+  .colorSelect .ant-select-item-option:nth-child(1) {
+    color: #0958d9;
+    background: #e6f4ff;
+    border-color: #91caff;
+  }
+  
+  .colorSelect .ant-select-item-option:nth-child(2) {
+    color: #389e0d;
+    background: #f6ffed;
+    border-color: #b7eb8f;
+  }
+  
+  .colorSelect .ant-select-item-option:nth-child(3) {
+    color: #cf1322;
+    background: #fff1f0;
+    border-color: #ffa39e;
+  }
+  
