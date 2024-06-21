@@ -2,7 +2,7 @@ import { createHashRouter } from "react-router-dom";
 import DataManage from "../pages/DataManage";
 import TagManage from "../pages/TagManage";
 import App from "@/App.tsx";
-import StudyNotes from "@/pages/StudyNotes";
+import Home from "@/pages/Home";
 import KeepAlive from "react-activation";
 const router = createHashRouter([
   {
@@ -11,7 +11,7 @@ const router = createHashRouter([
     children: [
       {
         index: true,
-        element: <StudyNotes></StudyNotes>
+        element: <Home></Home>
       },
       {
         path: "data",

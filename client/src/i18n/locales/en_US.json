@@ -8,7 +8,7 @@
     },
     "Header": { "Setting": "Setting" },
     "Side": {
-      "StudyNote": "StudyNote",
+      "Home": "HomePage",
       "DataManage": "Data",
       "TagManage": "Tags"
     },

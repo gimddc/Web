@@ -19,7 +19,6 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    // 配置路径别名提示
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"]

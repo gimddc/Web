@@ -19,7 +19,7 @@ const Sidebar = () => {
 
   const items: MenuItem[] = [
     {
-      label: t("Side.StudyNote"),
+      label: t("Side.Home"),
       key: "/",
       icon: <HomeFilled />
     },
